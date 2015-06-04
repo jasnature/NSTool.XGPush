@@ -42,10 +42,10 @@ public void XGTestAllDevice()
             Action_type = 2,
             Browser = new NotifyMessageAction_Browser()
             {
-                Url = "http://baidu.com",
+                Url = "http://xxxxxx.com",
                 Confirm = 0
             },
-            Intent = "http://baidu.com",
+            Intent = "http://xxxxxxx.com",
             Activity = "XGPushDemo"
         }
     }
