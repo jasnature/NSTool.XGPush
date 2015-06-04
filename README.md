@@ -48,6 +48,6 @@ public void XGTestAllDevice()
             Intent = "http://baidu.com",
             Activity = "XGPushDemo"
         }
-    };
+    }
 
 }
