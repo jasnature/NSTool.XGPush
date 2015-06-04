@@ -3,9 +3,7 @@
 
 部分例子：也可以参考代码里面的FrameworkUnitTest单元测试例子
 
-/// <summary>
-/// 推送所有设备
-/// </summary>
+//推送所有设备
 public void XGTestAllDevice()
 {
     QQXGProvider qqxg = new QQXGProvider();
