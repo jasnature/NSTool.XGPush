@@ -1,5 +1,5 @@
 # NSTool.XGPush
-腾讯信鸽推送 使用C#语法开发的 .NET版 sdk封装，支持android和部分ios
+腾讯信鸽推送 使用C#语法开发的 .NET版 sdk封装，主要封装了android手机推送支持
 
 部分例子：也可以参考代码里面的FrameworkUnitTest单元测试例子
 
