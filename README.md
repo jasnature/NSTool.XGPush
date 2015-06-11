@@ -4,7 +4,7 @@
 部分例子：也可以参考代码里面的FrameworkUnitTest单元测试例子
 
 //推送所有设备
-
+<pre>
 public void XGTestAllDevice()
 
 {
@@ -79,3 +79,4 @@ Activity = "XGPushDemo"
 
 
 }
+</pre>
