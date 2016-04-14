@@ -1,3 +1,5 @@
+###主地址：http://jasnature.github.io/NSTool.XGPush/
+
 <font color=red>注意没有封装IOS的推送，请参考源码增加</font>
 
 如果觉得适合你，请给一颗星星哟，仅表我写代码的安慰(^_^)
